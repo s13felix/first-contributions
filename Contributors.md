@@ -8523,7 +8523,6 @@ Kunal Khallar - Learning to contribute :)
 - [mariafauslin08-create](https://github.com/mariafauslin08-create) - My first open-source contribution!
 - [jebin](https://github.com/jebinjebin725-hash) - My first open source contribution!
 - [s13felix](https://github.com/s13felix)
-<<<<<<< HEAD
 - [Benny](https://github.com/Benny-2007) - My first open source contribution!
 - [Arun](https://github.com/ArunSankar-2007)- My first open source contribution!
 - [jenith](https://github.com/jenithriyazcharles)- My first open source contribution!
@@ -8533,5 +8532,3 @@ Kunal Khallar - Learning to contribute :)
 - [Shreyansh Garg](https://github.com/Shreyxnsh-Garg) - Learning and contributing to open source
 - [Kemal Codes](https://github.com/techkayacodes)
 - [s13felix](https://github.com/s13felix) - My first open source contribution....
-=======
->>>>>>> 7cb0b67ca11ab948d2782b54fdc2b376b9ac3660
